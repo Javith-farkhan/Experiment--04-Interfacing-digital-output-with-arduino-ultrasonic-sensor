@@ -83,7 +83,7 @@ void loop()
 ```
 
 ### output
-![git](robotics exp 4.png)
+![git](https://github.com/Javith-farkhan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/robotics%20ex%204.png)
 
 
 
